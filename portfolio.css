@@ -1,0 +1,158 @@
+#bodycolor{
+	background:white;
+
+
+}
+body{
+	position: relative;
+}
+.paddingtop{
+	padding-top: 120px;
+}
+
+
+
+p{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight: normal;
+	font-size:25px;
+	font-style: bold;
+	color: #43A047;
+}
+
+img{
+	width: 92%;
+	height: 92%;
+	margin: 2%;
+}
+
+.topfooter{
+	background:#F0F3F4;
+	
+	text-align:center;
+	
+	padding:70px;
+	
+    width: 100%;
+    color: black;
+}
+
+.bottomfooter{
+	background:#D0D3D4;
+	text-align: center;
+	padding: 20px;
+    left: 0;
+    margin-bottom: 0px;
+    width: 100%;
+    color: black;
+  
+	
+}
+
+
+
+input{
+	width:100%;
+	height: 40px;
+
+
+	padding-top: 40px;
+	padding-bottom: 30px;
+	border: 0;
+	outline: 0;
+	background: transparent;
+	border-bottom: 1px solid black;
+}
+
+textarea {
+	width:100%;
+	font-size: 1.5em;
+	
+	border: 0;
+	outline: 0;
+	background: transparent;
+	border-bottom: 1px solid black;
+	box-shadow: none!important;
+}
+.myhr{ 
+	
+    border:2px solid #4E342E;
+ }
+
+
+.fab{
+    background: #F0F3F4;
+    padding:10px;
+    border-radius: 50%;
+    border: 2px solid black;
+    text-align: center;
+    vertical-align: middle;
+    color: black;
+
+}
+.fab:hover{
+	background-color:black;
+	color:yellow;
+}
+
+.clouds{
+	background:#F7F9F9;
+
+}
+.subheading{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight:bold;
+	font-size:30px;
+	font-style: bold;
+	color: #4E342E;
+	text-align: center;
+	padding: 30px;
+
+}
+.footerheading{
+	font-family: 'Yantramanav', sans-serif;
+	font-weight:bold;
+	font-size:30px;
+	font-style: bold;
+	color: #4E342E;
+	text-align: center;
+	
+}
+
+
+li a{
+	color: #4E342E;
+}
+
+li a:hover{
+	box-shadow:1px 1px 1px 1px rgba(0,0,0,0.1);
+	color:blue;
+	
+}
+a img{
+	height: 25px;
+	width: 25px;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: red;
+    opacity: 1; /* Firefox */
+    font-family: 'Yantramanav', sans-serif;
+	font-weight:normal;
+	font-size:28px;
+
+	font-style: normal;
+	color: #4E342E;
+	text-align: left;
+
+}
+input,textarea{
+	 font-family: 'Yantramanav', sans-serif;
+	 position: relative;
+	font-weight:normal;
+	font-size:28px !important;
+
+	font-style: normal;
+	color: #4E342E;
+	text-align: left;
+}
+
